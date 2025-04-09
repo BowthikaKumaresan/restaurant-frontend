@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Paneer Butter Masala",
+      "description": "Creamy tomato-based curry with cottage cheese.",
+      "price": 180
+    },
+    {
+      "name": "Veg Biryani",
+      "description": "Fragrant rice cooked with mixed vegetables and spices.",
+      "price": 150
+    },
+    {
+      "name": "Masala Dosa",
+      "description": "South Indian crispy dosa filled with spicy potato masala.",
+      "price": 90
+    }
+  ]
+  
