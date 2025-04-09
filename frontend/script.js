@@ -2,7 +2,8 @@ document.addEventListener('DOMContentLoaded', () => {
   // MENU LOADING
   const menuContainer = document.getElementById('menu');
 
-  fetch('http://localhost:5001/api/menu')
+  fetch('https://restaurant-backend-production-3246.up.railway.app/api/menu')
+
     .then(response => response.json())
     .then(menuItems => {
       menuItems.forEach(item => {
